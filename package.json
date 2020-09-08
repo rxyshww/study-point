@@ -1,0 +1,19 @@
+{
+  "name": "study-point",
+  "version": "1.0.0",
+  "description": "知识点记录",
+  "main": "深入浅出Vue.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rxyshww/study-point.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rxyshww/study-point/issues"
+  },
+  "homepage": "https://github.com/rxyshww/study-point#readme"
+}
